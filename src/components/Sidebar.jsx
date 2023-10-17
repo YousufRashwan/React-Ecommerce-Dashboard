@@ -39,7 +39,7 @@ const Sidebar = () => {
           mt-4 flex text-xl font-extrabold tracking-tight dark:text-white 
           text-slate-900"
             >
-              <SiShopware /> <span>Shoppy</span>
+              <SiShopware /> <span>Dashboardy</span>
             </Link>
             <TooltipComponent content="Menu" position="BottomCenter">
               <button
